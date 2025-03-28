@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Peng Zilv Blog</title>
+    <link>https://lp.github.io/posts/</link>
+    <description>Recent content in Posts on Peng Zilv Blog</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Mar 2025 19:16:55 -0400</lastBuildDate>
+    <atom:link href="https://lp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is my first post</title>
+      <link>https://lp.github.io/posts/myfirstpost/</link>
+      <pubDate>Fri, 28 Mar 2025 19:16:55 -0400</pubDate>
+      <guid>https://lp.github.io/posts/myfirstpost/</guid>
+      <description>&lt;p&gt;Welcome to Peng&amp;rsquo;s zilv blog. This is my first post. I learned to use hugo to applying different themes to create a blog and posts today!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
